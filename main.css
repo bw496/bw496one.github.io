@@ -1,14 +1,12 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  background-image: url(bg3.png);
 }
 
 header {
   padding: 20px 0;
   color: blue;
-  background-image: url(bg3.png);
-  background-color: red;
+    background-color: red;
 
 }
 
