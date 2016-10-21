@@ -5,6 +5,13 @@ body {
   background-color: blue;
 }
 
+.about_body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  background-image: url(bg3.png);
+  background-color: red;
+}
+
 header {
   padding: 20px 0;
   color: red;
