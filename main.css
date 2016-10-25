@@ -13,6 +13,7 @@ header {
 
 header .row,
 footer .row {
+  padding-top: 2%;
   display: flex;
   align-items: center;
 }
