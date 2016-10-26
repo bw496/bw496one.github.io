@@ -37,7 +37,6 @@ header p {
 
 svg {
   position: absolute;
-  padding-left: 10%;
   padding-right: 10%;
   z-index: -1;
 }
