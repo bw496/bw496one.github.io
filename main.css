@@ -16,6 +16,8 @@ footer .row {
   padding-top: 3.5%;
   display: flex;
   align-items: center;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 header h1 {
