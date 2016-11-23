@@ -36,7 +36,7 @@ header p {
 }
 
 svg {
-  position: inline-block;
+  position: relative;
   margin: 0 auto;
   z-index: -1;
 }
